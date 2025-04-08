@@ -25,3 +25,22 @@ int32_t main() {
   while(t--) solve();
   return 0;
 }
+
+
+//also a good approach for this problem
+/*int n, m;
+cin >> n >> m;
+queue <int> q;
+q.push(n);
+while (!q.empty()) {
+    int x = q.front(); q.pop();
+    if (x == m) {
+        cout << "YES\n";
+        return;
+    }
+    if (x < m || x % 3) {
+        continue;
+    }
+    q.push(x / 3), q.push(x * 2 / 3);
+}
+cout << "NO\n";*/
