@@ -1,0 +1,1 @@
+{"name":"Local: Budges","url":"c:\\Users\\suzon\\OneDrive\\Desktop\\Code for the Day\\Budges.cpp","tests":[{"id":1745452233082,"input":"5\n6\n3\n","output":"4"},{"id":1745452249469,"input":"5\n3\n6","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\suzon\\OneDrive\\Desktop\\Code for the Day\\Budges.cpp","group":"local","local":true}
